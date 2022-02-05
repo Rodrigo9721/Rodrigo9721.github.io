@@ -34,6 +34,9 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
+- name: Fast Learning
+  percentage: 100
+  color: green
 - name: Dedication
   percentage: 100
   color: blue

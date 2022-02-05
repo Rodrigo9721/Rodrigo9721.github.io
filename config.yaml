@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://rodrigo9721.github.io
 
 languageCode: en-us
 title: "Rodrigo's Portfolio"
@@ -23,6 +23,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: /images/site/background.jpg
   features:
     # Enable and configure portfolio
     portfolio:
