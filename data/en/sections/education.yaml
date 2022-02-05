@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Economics
+  icon: fa-university
+  timeframe: 2014-2020
+  institution:
+    name: Pontificia Universidad Católica del Perú
+    url: "https://www.pucp.edu.pe/"
+  extracurricularActivities: #(optional)
+  - IX Programa de Especialización en Finanzas (UNI)
+
+- name: Higher Secondary School Certificate
+  icon: fa-school
+  timeframe: 2003-2013
+  institution:
+    name: Colegio Claretiano
+    url: "https://www.claretiano.edu.pe/"
+  

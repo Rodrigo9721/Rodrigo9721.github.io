@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Credigob
+    url: "https://credigob.pe/"
+    location: Perú
+    # company overview
+    overview: Financial & Technological Services Provider
+  positions:
+  - designation: Data Scientist
+    start: Dec 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Research the risks associated to financial services.
+    - Development of risk management models using machine learning.
+    - Development of tools to bypass data obstacles.
+
+- company:
+    name: Willay
+    location: Perú
+    # company overview
+    overview: Technological Services Provider
+  positions:
+  - designation: Credit Risk Research Intern
+    start: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Research the risks associated to financial services.
+    - Development of mock risk management models using machine learning

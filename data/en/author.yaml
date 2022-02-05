@@ -1,0 +1,16 @@
+name: "Luis Rodrigo Alamo Ramos"
+nickname: "Rodrigo"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "luis.alamo@pucp.edu.pe"
+  phone: "+51992824798"
+
+# some summary about what you do
+summary:
+  - I am an Economist
+  - I am a Data Scientist
+  - I work on risk analysis
+  
