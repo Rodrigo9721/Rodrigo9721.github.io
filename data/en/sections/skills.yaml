@@ -12,7 +12,7 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Capable of developing, deploying and managing risk management machine learning models and application on Python. Experienced in training convolutional NNs to bypass CAPTCHAs in order to access relevant data."
+  summary: "Capable of developing, deploying and managing risk management machine learning models and applications on Python. Experienced in training convolutional NNs to bypass CAPTCHAs in order to access relevant data."
   url: "https://www.python.org/"
 
 - name: Git
