@@ -21,12 +21,12 @@ skills:
   url: "https://git-scm.com/"
 
 - name: R
-  logo: "/images/sections/skills/r.png"
+  logo: "/images/sections/skills/r.jpg"
   summary: "Used for data visualization and model development."
   url: "https://www.ibm.com/docs/en/i/7.4?topic=programming-sql"
 
 - name: SQL
-  logo: "/images/sections/skills/sql.jpg"
+  logo: "/images/sections/skills/sql.png"
   summary: "Capable of handling big datasets using SQL language"
   url: "https://www.ibm.com/docs/en/i/7.4?topic=programming-sql"
   
