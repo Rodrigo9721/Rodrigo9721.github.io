@@ -20,8 +20,13 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: SQL
+- name: R
   logo: "/images/sections/skills/sql.png"
+  summary: "Used for data visualization and model development."
+  url: "https://www.ibm.com/docs/en/i/7.4?topic=programming-sql"
+
+- name: SQL
+  logo: "/images/sections/skills/r.jpg"
   summary: "Capable of handling big datasets using SQL language"
   url: "https://www.ibm.com/docs/en/i/7.4?topic=programming-sql"
   
