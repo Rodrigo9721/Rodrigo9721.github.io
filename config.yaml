@@ -23,7 +23,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: /images/site/background.jpg
+  background: /images/site/160352.png
   features:
     # Enable and configure portfolio
     portfolio:

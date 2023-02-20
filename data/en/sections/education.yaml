@@ -17,6 +17,7 @@ degrees:
     name: Pontificia Universidad Católica del Perú
     url: "https://www.pucp.edu.pe/"
   extracurricularActivities: #(optional)
+  - Diplomatura de Especialización en Ciencia de Datos para las Ciencias Sociales y la Gestión Pública (PUCP)
   - IX Programa de Especialización en Finanzas (UNI)
 
 - name: Higher Secondary School Certificate
