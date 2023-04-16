@@ -21,6 +21,22 @@ buttons:
 
 # your projects
 projects:
+- name: Shakespeare GPT Model
+  logo: /images/sections/projects/python.png
+  role: Student
+  timeline: "April 2023"
+  repo: https://github.com/Rodrigo9721/NLP_Transformer_model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Create Shakespeare like text using Generative Pretrained Transformers (GPT)
+  tags: ["Educational", "python", "neural-networks", "Transformers", 'Pytorch']
+- name: Entities Plotly Dashboard
+  logo: /images/sections/projects/python.png
+  role: Developer
+  timeline: "April 2023"
+  repo: https://github.com/Rodrigo9721/New_plotly_dash # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Plotly Dashboard to visualize important data about corruption inside Government  Entities
+  tags: ["Educational", "python", "neural-networks", "Transformers", 'Pytorch']  
 - name: CAPTCHA Breaker and SUNAT scrapper
   logo: /images/sections/projects/python.png
   role: Developer
