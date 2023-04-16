@@ -44,4 +44,4 @@ params:
         # diaspora: true
         # mastodon: true
 
-runs-on: self-hosted
+
