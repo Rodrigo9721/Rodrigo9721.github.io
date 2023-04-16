@@ -43,3 +43,5 @@ params:
         # pocket: true
         # diaspora: true
         # mastodon: true
+
+runs-on: self-hosted
