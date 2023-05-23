@@ -21,6 +21,33 @@ buttons:
 
 # your projects
 projects:
+- name: mBart Finetuning for Grammar Correction
+  logo: /images/sections/projects/python.png
+  role: Developer
+  timeline: "May 2023"
+  repo: https://github.com/Rodrigo9721/mbart_finetuning_for_text_correction # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Finetune a mBart transformer for the grammar correction task
+  tags: ["Educational", "python", "neural-networks", 'Pytorch']
+  
+- name: Pytorch Object Detection
+  logo: /images/sections/projects/python.png
+  role: Developer
+  timeline: "May 2023"
+  repo: https://github.com/Rodrigo9721/Pytorch_object_detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Automated visual recognition of objects within images or video.
+  tags: ["Educational", "python", "neural-networks", 'Pytorch']
+
+- name: Pytorch Image Classifier
+  logo: /images/sections/projects/python.png
+  role: Developer
+  timeline: "May 2023"
+  repo: https://github.com/Rodrigo9721/Pytorch_img_classification # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Train a model capable of classifying images
+  tags: ["Educational", "python", "neural-networks", "Transformers", 'Pytorch']
+
 - name: Shakespeare GPT Model
   logo: /images/sections/projects/python.png
   role: Student
