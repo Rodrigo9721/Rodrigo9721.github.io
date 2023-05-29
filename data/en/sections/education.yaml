@@ -10,20 +10,27 @@ section:
   # hideTitle: true
 
 degrees:
+- name: Specialization Diploma in Data Science for Social Sciences and Public Management (QLAB - PUCP)
+  icon: fa-university
+  timeframe: 2022-2023
+  institution:
+    name: Pontificia Universidad Católica del Perú
+    url: "https://www.pucp.edu.pe/"
+    
+- name: IX Specialization Program in Finance
+  icon: fa-university
+  timeframe: 2019-2020
+  institution:
+    name: Universidad Nacional de Ingeniería
+    url: "https://www.uni.edu.pe/"
+
 - name: B.Sc. in Economics
   icon: fa-university
   timeframe: 2014-2020
   institution:
     name: Pontificia Universidad Católica del Perú
     url: "https://www.pucp.edu.pe/"
-  extracurricularActivities: #(optional)
-  - Diplomatura de Especialización en Ciencia de Datos para las Ciencias Sociales y la Gestión Pública (PUCP)
-  - IX Programa de Especialización en Finanzas (UNI)
 
-- name: Higher Secondary School Certificate
-  icon: fa-school
-  timeframe: 2003-2013
-  institution:
-    name: Colegio Claretiano
-    url: "https://www.claretiano.edu.pe/"
+
+
   
